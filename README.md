@@ -1,7 +1,7 @@
-[![MasterHead](https://wollen.org/blog/wp-content/uploads/2021/04/hello_world_title3.gif...)]
+[![MasterHead](https://wollen.org/blog/wp-content/uploads/2021/04/hello_world_title3.gif...)
 <h1 align="center">Hi 👋, I'm Erwin Pan</h1>
 <h3 align="center">Software/Mobile developer</h3>
-<img align="right" alt="Coding" width="400" src-"https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=conner7775&label=Profile%20views&color=0e75b6&style=flat" alt="conner7775" /> </p>
 
